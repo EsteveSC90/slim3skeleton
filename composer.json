@@ -2,7 +2,7 @@
     "name": "tcampaner/slim3Skeleton",
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework", "rest", "router", "psr7"],
-    "homepage": "http://github.com/tcampaner/slim3Skeleton",
+    "homepage": "https://github.com/tcampaner/slim3Skeleton",
     "license": "MIT",
     "authors": [
         {
