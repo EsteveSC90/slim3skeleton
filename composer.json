@@ -1,14 +1,13 @@
 {
-    "name": "slim/slim-skeleton",
+    "name": "tcampaner/slim3Skeleton",
     "description": "A Slim Framework skeleton application for rapid development",
     "keywords": ["microframework", "rest", "router", "psr7"],
-    "homepage": "http://github.com/slimphp/Slim-Skeleton",
+    "homepage": "http://github.com/tcampaner/slim3Skeleton",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "Tomeu Campaner",
+            "email": "cfb@paucasesnovescifp.cat"
         }
     ],
     "require": {
