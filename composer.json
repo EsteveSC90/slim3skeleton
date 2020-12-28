@@ -1,8 +1,8 @@
 {
-    "name": "tcampaner/slim3Skeleton",
+    "name": "tcampaner/slim3skeleton",
     "description": "Plantilla per un projecte amb slim 3",
     "keywords": ["microframework", "rest", "router", "psr7"],
-    "homepage": "https://github.com/tcampaner/slim3Skeleton",
+    "homepage": "https://github.com/tcampaner/slim3skeleton",
     "license": "MIT",
     "type": "project",
     "minimum-stability": "dev",
@@ -13,18 +13,6 @@
             "email": "cfb@paucasesnovescifp.cat"
         }
     ],
-    "repositories": [ {
-        "type": "package",
-        "package": {
-            "name": "tcampaner/slim3Skeleton",
-            "version": "1.0.0",
-            "source": {
-                "url": "https://github.com/tcampaner/slim3Skeleton",
-                "type": "git",
-                "reference": "master"
-              }
-         }
-    }],
     "require": {
         "php": ">=5.5.0",
         "slim/slim": "^3.1",
