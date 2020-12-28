@@ -1,9 +1,10 @@
 {
     "name": "tcampaner/slim3Skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
+    "description": "Plantilla per un projecte amb slim 3",
     "keywords": ["microframework", "rest", "router", "psr7"],
     "homepage": "https://github.com/tcampaner/slim3Skeleton",
     "license": "MIT",
+    "type": "project",
     "authors": [
         {
             "name": "Tomeu Campaner",
