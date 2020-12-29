@@ -1,4 +1,5 @@
 <?php
+// Carrega tots els arxius php continguts dins el directori app
 $base = __DIR__ . '/../app/';
 
 $folders = [
