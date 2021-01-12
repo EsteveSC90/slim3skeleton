@@ -6,7 +6,7 @@ class Database {
 
   private static $instance = null;  //instancia(objecte) de la pròpia classe
   private $pdo;    //connexió a la base de dades
-  private $host = BBBDD_HOST;  
+  private $host = BBDD_HOST;  
   private $user = BBDD_USER;  
   private $pass = BBDD_PASS;     
   private $dbname = BBDD_NAME;

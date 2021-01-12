@@ -4,6 +4,7 @@ namespace App\Model;
 use App\Lib\Database;  // Clase per conectar a la base de dades
 use App\Lib\Resposta;  // Clase per generar una resposta
 use PDO;
+use Exception;
 
 class Exemple {
 
